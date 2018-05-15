@@ -1,0 +1,37 @@
+body {
+font-family:Arial;
+background-color:#2F4F4F;
+color: white;
+
+padding-top: 10px;
+}
+
+.resume-image {
+border-radius: 50%;
+width: 150px;
+height: 150px;
+text-align: center;
+margin-left: 550px;
+padding-bottom: 20px;
+transition:all. 5s;
+}
+
+.section-title{
+text-transform:uppercase;
+padding-top: 20px;
+
+}
+
+h1{
+background-color: 	#32CD32;
+padding:5px;
+text-align: center;
+padding: 0;
+margin: 0;
+
+}
+
+.list{
+list-style-type: none;
+
+}
